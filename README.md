@@ -4,7 +4,7 @@ This project analyzes weather data for different cities in the country, focusing
 
 
 Overview
-This analysis provides a comparative overview of the weather in three cities: Nairobi, Nakuru, and Narok.
+This analysis provides a comparative overview of the weather in Nairobi, Nakuru, and Narok.
 
 Temperature
 
@@ -21,17 +21,21 @@ Weather Conditions
 Narok:
 
 The sunny weather is ideal for outdoor activities and may encourage tourism in the area.
+
 Nakuru:
 
 The weather is partly rainy, which can affect outdoor events but is beneficial for agriculture, as it provides necessary moisture for crops.
+
 Nairobi:
 
 The city is partly cloudy, suggesting a mix of sunshine and cloud cover. This condition can result in cooler temperatures compared to the other cities, especially during the evenings.
+
 Implications
 
 The high humidity in Nairobi could influence health and comfort levels, making it essential for residents to stay hydrated.
 
 The sunny weather in Narok can attract visitors and support local tourism, while Nakuru's partly rainy conditions could enhance agricultural productivity.
 Understanding these weather patterns helps in planning and preparing for various activities in each city.
+
 Conclusion
 The analysis highlights distinct weather patterns and conditions across Nairobi, Nakuru, and Narok. This information is vital for residents, tourists, and local businesses to make informed decisions based on weather forecasts.
