@@ -30,6 +30,7 @@ The city is partly cloudy, suggesting a mix of sunshine and cloud cover. This co
 Implications
 
 The high humidity in Nairobi could influence health and comfort levels, making it essential for residents to stay hydrated.
+
 The sunny weather in Narok can attract visitors and support local tourism, while Nakuru's partly rainy conditions could enhance agricultural productivity.
 Understanding these weather patterns helps in planning and preparing for various activities in each city.
 Conclusion
