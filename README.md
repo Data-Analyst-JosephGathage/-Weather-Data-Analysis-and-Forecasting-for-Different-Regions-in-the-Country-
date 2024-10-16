@@ -1,20 +1,22 @@
 Weather Data Analysis
+
 This project analyzes weather data for different cities in the country, focusing on temperature, humidity, and overall weather conditions.
+
 
 Overview
 This analysis provides a comparative overview of the weather in three cities: Nairobi, Nakuru, and Narok.
 
 Temperature
-The temperature across Nairobi, Nakuru, and Narok is consistent, indicating that these regions experience similar thermal conditions during the analyzed period.
+The temperatures across Nairobi, Nakuru, and Narok are consistent, indicating that these regions experience similar thermal conditions during the analyzed period.
 Humidity Levels
 Nairobi:
 Humidity levels are notably higher, which may contribute to a more tropical feel in the city.
 Nakuru and Narok:
-Both cities exhibit similar humidity levels that are lower than Nairobi, suggesting a drier climate.
+Both cities exhibit similar humidity levels lower than Nairobi, suggesting a drier climate.
 Weather Conditions
 Narok:
 
-The weather is sunny, which is ideal for outdoor activities and may encourage tourism in the area.
+The sunny weather is ideal for outdoor activities and may encourage tourism in the area.
 Nakuru:
 
 The weather is partly rainy, which can affect outdoor events but is beneficial for agriculture, as it provides necessary moisture for crops.
